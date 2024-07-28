@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Welcome to ls_test Page</h1>
-    <a href="../../ls9/docs/index.htm">Back to Main Page</a>
+    <a href="../../ls9/index.htm">Back to Main Page</a>
 </body>
 </html>
