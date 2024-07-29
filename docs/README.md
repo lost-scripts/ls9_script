@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Welcome to ls_test Page</h1>
-    <a href="/">Back to Main Page</a>
+    <a href="/lost-scripts.github.io">Back to Main Page</a>
 </body>
 </html>
