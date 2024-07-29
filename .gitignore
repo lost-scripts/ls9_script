@@ -2,12 +2,6 @@
 ###########
 
 #*.git/
-# Ignore folders:
-#/ls_*/
-# Ignore files:
-#ls_*
-# Ignore all:
-#ls_
 
 # PATHS #
 #########
@@ -17,7 +11,7 @@
 # FOLDERS #
 ###########
 
-#Modules/
+
 
 # FILE TYPES #
 ##############
@@ -27,5 +21,3 @@
 # FILES #
 #########
 
-.github/README.html
-#Utility/ls_utilities_ext.lua
